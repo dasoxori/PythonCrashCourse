@@ -30,3 +30,4 @@ print ("The first motorcycle I owned was a " + firstOwned.title() + ".")
 # removing an item by Value
 motorcycles.remove('yamaha')
 print(motorcycles)
+
