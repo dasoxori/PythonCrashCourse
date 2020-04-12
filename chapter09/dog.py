@@ -16,7 +16,7 @@ class Dog():
         """Sumulate rolling over in responce to a command."""
         print(self.name.title() + " rolled over!")
 
-myDog = Dog("fifi", 3)
+myDog = Dog("chocho", 3)
 yourDog = Dog("Lucy", 6)
 
 print("My dog's name is " + myDog.name.title() + ".")
