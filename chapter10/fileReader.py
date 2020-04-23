@@ -21,3 +21,4 @@ with open(filePath) as fileObject:
 
 for line in lines:
     print(line.rstrip())
+    
