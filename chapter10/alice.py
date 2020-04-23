@@ -1,3 +1,4 @@
+# analyzing text
 filename = 'textFiles/alice.txt'
 
 try:
