@@ -4,7 +4,7 @@
 filePath = 'textFiles/piDigits.txt'
 with open(filePath) as fileObject:
     contents = fileObject.read()
-    print(contents.rstrip())
+    print(contents.rstrip()) #remove the new line
 
 # Reading line by line
 print("\nReading file line by line")
