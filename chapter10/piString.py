@@ -13,7 +13,7 @@ print(piString)
 print(len(piString))
 
 # Large Files: One thousand Digits
-filePath = 'textFiles/piThousandDigits.txt'
+filePath = 'textFiles/piMillionDigits.txt'
 
 with open(filePath) as fileObject:
     lines = fileObject.readlines()
